@@ -1,11 +1,3 @@
-﻿# Start
+学习项目
 
-```bash
-
-composer install
-
-php -S localhost:8080
-
-open http://localtion:8080
-
-```
+fork from https://github.com/RryLee/illuminate-in-tp
